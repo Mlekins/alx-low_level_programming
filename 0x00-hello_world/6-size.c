@@ -10,7 +10,6 @@
 
 int main(void)
 {
-
 printf("Size of a char: %zu byte(s)\n", sizeof(char));
 prinf("Size of an int: %zu byte(s)\n", sizeof(int));
 prntf("Size of a double: %zu byte(s)\n", sizeof(double));
