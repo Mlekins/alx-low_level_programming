@@ -3,12 +3,12 @@
 /*
  * main - Entry point
  *
- * Decription: A program that print extacly
+ * printf: A program that print extacly
  *
  * Return: Always 0 (Success)
  */
 
-int main (void)
+int main(void)
 {
 	printf("with proper grammer, but the outcome is a piece of art,\n");
 

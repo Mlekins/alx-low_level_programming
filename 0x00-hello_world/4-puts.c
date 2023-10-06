@@ -3,7 +3,7 @@
 /*
  * main - Entry point
  *
- * Documentation: A program that prints without the function printf
+ * puts: A program that prints without the function printf
  *
  * Return: Always 0 (Success)
  */
