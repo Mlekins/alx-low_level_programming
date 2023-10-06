@@ -3,7 +3,7 @@
 /*
  * main - Entry point
  *
- * Description: A puts program that prints exactly
+ * Description: Programming is like building a multilingual puzzle
  *
  * Return: Always 0 (Success)
  */
