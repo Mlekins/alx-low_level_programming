@@ -3,7 +3,7 @@
 /*
  * main - Entry point
  *
- * Description: A puts program that prints exactly 
+ * Description: A puts program that prints exactly
  *
  * Return: Always 0 (Success)
  */
