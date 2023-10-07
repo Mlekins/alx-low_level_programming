@@ -3,20 +3,18 @@
 /**
  * main - Entry point
  *
- * Description: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+ * Description: I sometimes suffer from insomnia.
  *
  * Return: Always 0 (Success)
  */
-
-char letter;
-
 int main(void)
 {
-	for (letter = 'a'; letter <= 'z'; letter ++)
-	{
-		putchar (letter);
-	}
+	char l;
 
-	return 0;
+	for (l = 'a'; l <= 'z'; l++)
+	{
+		putchar (l);
+	}
+	putchar('\n');
+	return (0);
 }
-	
