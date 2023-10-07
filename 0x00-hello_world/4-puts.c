@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
- * puts: A program that prints without the function printf
+ * Description: Programming is like building a multilingual puzzle
  *
  * Return: Always 0 (Success)
  */
