@@ -1,12 +1,15 @@
-void print_alphabet(void)
-{
+#ifndef MAIN_H
+#define MAIN_H
+#include <stdio.h>
 
-	char i;
+/**
+ * putchar - writes the character c to std
+ * @c: parameter to compare
+ * Return: 1or 0
+ */
 
-	for(i = 'a'; i <= 'z'; i++)
-	{
-		_putchar(i);
-	}
+int _putchar(char c);
+void print_alphabet(void);
+void print_alphabet_x10(void);
 
-	_putchar('\n');
-}
+#endif
