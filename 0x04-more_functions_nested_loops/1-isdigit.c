@@ -5,7 +5,7 @@
  *
  * @c: character to be checked
  *
- * Return: return 1 or 0
+ * Return: return 1 if digit and 0 if not
  */
 
 int _isdigit(int c)
