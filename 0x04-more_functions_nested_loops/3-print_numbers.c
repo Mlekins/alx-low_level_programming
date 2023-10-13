@@ -2,6 +2,8 @@
 
 /**
  * print_numbers- a function that prints numbers 0 to 9
+ *
+ * 	using _putchar twice
  */
 
 void print_numbers(void)
