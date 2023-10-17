@@ -16,5 +16,5 @@ void print_rev(char *s)
 	/*print char from the last indec as you decrement*/
 	for (--rev; rev >= 0; --rev)
 		_putchar(s[rev]);
-	_putchar('\n')
+	_putchar('\n');
 }
