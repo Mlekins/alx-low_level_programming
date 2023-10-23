@@ -2,8 +2,8 @@
 
 /**
  * _memcpy - a function that copies @n bytes from memory area @src to memory
- * 			@dest
- * 
+ *	@dest
+ *
  * @n: bytes from memory area @src
  *
  * @src: memory area
