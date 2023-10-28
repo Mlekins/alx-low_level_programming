@@ -8,6 +8,8 @@
  * @x: the number to be raised
  *
  * @y: the power
+ *
+ * Return: -1 if y < 0, 1 if y = 0, and x if y = 1
  */
 
 int _pow_recursion(int x, int y)
